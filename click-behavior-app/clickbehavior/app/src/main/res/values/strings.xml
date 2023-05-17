@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">click behavior</string>
+    <string name="lemon_select">Tap to pick up your darts</string>
+    <string name="lemon_squeeze">Tap to throw your first dart</string>
+    <string name="lemon_drink">Great job! Now tap to throw your remaining darts</string>
+    <string name="lemon_empty_glass">Tap to retrieve your darts and play again</string>
+    <string name="lemon_tree">Lemon tree</string>
+    <string name="lemon">Lemon</string>
+    <string name="lemon_glass">Glass of lemonade</string>
+    <string name="empty_glass">Empty glass</string>
+</resources>
